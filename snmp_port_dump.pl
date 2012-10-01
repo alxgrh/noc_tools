@@ -381,7 +381,7 @@ Get info about cisco switch interfaces.
 
 Usage: $script [-c community] <switch> 
 
-Options: -c		SNMP community	 
+Options: -c community		SNMP community.
          
 (c) Alexey Grachev. 2009
 
