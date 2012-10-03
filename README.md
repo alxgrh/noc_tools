@@ -1,4 +1,4 @@
 noc_tools
 =========
 
-Some usefull scripts for NOC administrators.
+Usefull scripts for NOC administrators.
