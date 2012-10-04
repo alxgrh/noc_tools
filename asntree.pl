@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 #
-#  Copyright (c) 2011 Alexey Grachev <alxgrh@yandex.ru>
+#  Copyright (c) 2011 Alexey Grachev <alxgrh at yandex dot ru>
 #  All rights reserved.
 # 
 #  Redistribution and use in source and binary forms, with or without
