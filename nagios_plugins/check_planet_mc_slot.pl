@@ -28,20 +28,14 @@
 use Net::SNMP;
 use Getopt::Std;
 
-$script    = "check_snmp_mc_slot";
+$script    = "check_planet_mc_slot";
 
 # SNMP options
 $version = "2c";
 $timeout = 2;
 
-$number_of_interfaces = 0;
-$target_vc_index = 0;
-
 
 $oid_optlinkstate = ".1.3.6.1.4.1.10456.2.536.4.2.1.7.";
-
-
-
 
 $hostname = "192.168.10.21";
 $returnstring = "";
