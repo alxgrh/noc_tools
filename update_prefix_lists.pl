@@ -223,8 +223,3 @@ while (<CFG>){
 
 print "\n\n\n$complete_msg";
 close CFG;
-
-
-
-# (c) Alexey Grachev, aag@eltel.net. 2011.
-
